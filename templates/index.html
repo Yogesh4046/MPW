@@ -2,23 +2,124 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Diet Recommendation</title>
+    <style>
+        :root {
+            --primary-color: #ffd700; /* Yellow */
+            --secondary-color: #2c2c2c; /* Dark gray */
+            --text-color: #ffd700; /* Yellow */
+            --border-color: #444;
+            --background-color: #1a1a1a; /* Very dark gray, almost black */
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: var(--text-color);
+            background-color: var(--background-color);
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        .container {
+            background-color: var(--secondary-color);
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(255, 215, 0, 0.1);
+            max-width: 400px;
+            width: 100%;
+        }
+
+        h1 {
+            color: var(--primary-color);
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+        }
+
+        label {
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+
+        input[type="file"],
+        select,
+        input[type="submit"] {
+            margin-bottom: 20px;
+            padding: 10px;
+            border: 1px solid var(--border-color);
+            border-radius: 4px;
+            font-size: 16px;
+            background-color: var(--background-color);
+            color: var(--text-color);
+        }
+
+        input[type="file"] {
+            border: none;
+            padding: 10px 0;
+        }
+
+        input[type="file"]::file-selector-button {
+            background-color: var(--primary-color);
+            color: var(--background-color);
+            border: none;
+            padding: 8px 16px;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        select {
+            appearance: none;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath d='M10.293 3.293L6 7.586 1.707 3.293A1 1 0 00.293 4.707l5 5a1 1 0 001.414 0l5-5a1 1 0 10-1.414-1.414z' fill='%23ffd700'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 10px center;
+            padding-right: 30px;
+        }
+
+        input[type="submit"] {
+            background-color: var(--primary-color);
+            color: var(--background-color);
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #e6c200; /* Darker yellow */
+        }
+
+        @media (max-width: 480px) {
+            .container {
+                padding: 20px;
+            }
+        }
+    </style>
 </head>
 <body>
-    <h1>Diet Menu Recommendation</h1>
-    <form action="/" method="POST" enctype="multipart/form-data">
-        <label for="menu_pdf">Upload Mess Menu (PDF):</label>
-        <input type="file" name="menu_pdf" required><br><br>
-        
-        <label for="diet_preference">Select Diet Preference:</label>
-        <select name="diet_preference" required>
-            <option value="Diabetic">Diabetic</option>
-            <option value="Weight Loss">Weight Loss</option>
-            <option value="Muscle Gain">Muscle Gain</option>
-            <option value="General">General</option>
-        </select><br><br>
+    <div class="container">
+        <h1>Diet Menu Recommendation</h1>
+        <form action="/" method="POST" enctype="multipart/form-data">
+            <label for="menu_pdf">Upload Mess Menu (PDF):</label>
+            <input type="file" name="menu_pdf" id="menu_pdf" required>
 
-        <input type="submit" value="Get Recommendations">
-    </form>
+            <label for="diet_preference">Select Diet Preference:</label>
+            <select name="diet_preference" id="diet_preference" required>
+                <option value="Diabetic">Diabetic</option>
+                <option value="Weight Loss">Weight Loss</option>
+                <option value="Muscle Gain">Muscle Gain</option>
+                <option value="General">General</option>
+            </select>
+
+            <input type="submit" value="Get Recommendations">
+        </form>
+    </div>
 </body>
 </html>
