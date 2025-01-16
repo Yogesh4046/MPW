@@ -1,0 +1,307 @@
+Dish,Calories,Category,Protein,Fats,Sugars,Diet
+Aloo Tikki,150,Breakfast,3g,5g,10g,General
+Badam Milk Tea,150,Breakfast,3g,4g,12g,General
+Beetroot Pulya,150,Lunch,4g,5g,8g,General
+Boost Milk,150,Breakfast,4g,5g,11g,General
+Chapati,70,Breakfast,2g,1g,2g,Weight Loss
+Corn Flakes,100,Breakfast,2g,1g,12g,General
+Crispy Corn,250,Breakfast,4g,14g,8g,General
+Cut Fruits,50,Breakfast,1g,0g,8g,General
+Dal Tadka,250,Lunch,8g,7g,4g,Diabetic
+Drumstick Sambar,200,Lunch,6g,6g,4g,Weight Loss
+Egg Bhurji,200,Breakfast,12g,12g,2g,Diabetic
+Egg Half Fry,120,Breakfast,10g,10g,1g,Diabetic
+Flat Rice Poha,200,Breakfast,5g,7g,6g,General
+Fruit Salad with,150,Breakfast,2g,0g,20g,General
+Idli,39,Breakfast,1g,0g,7g,General
+Jamun Sorbath Candy,120,Breakfast,0g,0g,24g,General
+Kadhi Pakoda,300,Breakfast,8g,14g,8g,General
+Lemon Rice,300,Lunch,6g,8g,10g,General
+Masala Onion Rings,220,Breakfast,3g,14g,6g,General
+Medu Vada,150,Breakfast,5g,10g,5g,General
+Methi Chapati,100,Breakfast,3g,2g,2g,Weight Loss
+Milk Masala,120,Breakfast,6g,6g,12g,General
+Mixed Flavoured Cone,140,Breakfast,2g,6g,18g,General
+Muskmelon Juice,90,Breakfast,1g,0g,22g,General
+Peanut Kosambari,200,Breakfast,9g,14g,4g,Diabetic
+Pineapple Juice,100,Breakfast,1g,0g,24g,General
+Alasande Kalu,200,Lunch,6g,8g,4g,General
+Aloo Matar,180,Lunch,6g,5g,12g,General
+Badam Milk Shake,200,Lunch,6g,8g,20g,General
+Bhindi Pakoda,250,Lunch,5g,15g,10g,General
+Bisibele Bath with Boondi,400,Lunch,10g,15g,12g,Muscle Gain
+Black Dal,210,Lunch,12g,5g,8g,General
+Boiled Egg,78,Lunch,6g,5g,1g,Weight Loss
+Boiled Masala Egg,90,Lunch,7g,5g,2g,Weight Loss
+Butter Chapati,100,Lunch,3g,5g,3g,Weight Loss
+Chana Gravy,250,Lunch,13g,6g,12g,General
+Chicken Biryani,500,Lunch,20g,14g,8g,Muscle Gain
+Chicken Masala,350,Lunch,30g,15g,6g,Muscle Gain
+Coconut Chutney,100,Lunch,3g,7g,6g,General
+Dal Makhani,300,Lunch,15g,10g,5g,Diabetic
+Egg Curry,220,Lunch,12g,14g,4g,Diabetic
+Fried Rice,350,Lunch,8g,12g,6g,General
+Ghee Rice,350,Lunch,6g,15g,6g,General
+Horse Gram Sambar,210,Lunch,9g,5g,6g,General
+Jeera Aloo,180,Lunch,4g,6g,8g,General
+Jeera Rice,200,Lunch,6g,8g,10g,General
+Matar Paratha,250,Lunch,7g,8g,8g,General
+Menthi Pulao,250,Lunch,6g,7g,8g,General
+Moong Dal,210,Lunch,14g,3g,4g,Diabetic
+Navratna Pulao,350,Lunch,8g,12g,10g,General
+Nawabi Paneer Gravy,400,Lunch,15g,25g,8g,Muscle Gain
+Onion Rings with Lemon,180,Lunch,3g,14g,6g,General
+Paneer Matar Gravy,350,Lunch,18g,12g,8g,Muscle Gain
+Punjabi Chole Bhature,500,Lunch,18g,14g,12g,Muscle Gain
+Shahi Paneer,400,Lunch,20g,20g,10g,Muscle Gain
+Soyabean Pulao,350,Lunch,15g,12g,6g,Muscle Gain
+Tomato Bath,250,Lunch,6g,10g,10g,General
+Vegetable Pulao,300,Lunch,8g,12g,6g,General
+White Rice,200,Lunch,4g,1g,6g,General
+Vada Pav,300,Dinner,10g,15g,8g,Muscle Gain
+Garlic Roll,200,Dinner,6g,8g,4g,General
+Honey Chilli,250,Dinner,6g,12g,18g,General
+Idly Vada,200,Dinner,7g,8g,6g,General
+Pav Bhaji,450,Dinner,10g,20g,12g,Muscle Gain
+Paneer Manchurian,400,Dinner,18g,12g,8g,Muscle Gain
+Pumpkin Sabji,150,Dinner,5g,5g,6g,General
+Rajma Dal,250,Dinner,14g,6g,8g,General
+Roast Aloo,180,Dinner,3g,8g,6g,General
+Sabudana Vada,250,Dinner,7g,12g,10g,General
+Veg Fried Maggi,400,Dinner,10g,18g,12g,Muscle Gain
+Veg Hyderabadi,300,Dinner,6g,14g,8g,General
+Veg Kolhapuri,300,Dinner,6g,10g,8g,General
+Veg Pulao,350,Dinner,8g,12g,10g,General
+Tomato Chutney,80,Dinner,1g,0g,4g,Weight Loss
+Veg Ball Manchurian,300,Dinner,10g,16g,10g,Muscle Gain
+Veg Kurma,250,Dinner,6g,10g,8g,General
+Paneer Curry Variant 8,271,Lunch,8g,2g,15g,Weight Loss
+Poha Variant 4,301,Breakfast,7g,3g,1g,Muscle Gain
+Biryani Variant 35,86,Dinner,8g,20g,18g,Diabetic
+Paneer Curry Variant 1,195,Snack,3g,8g,2g,Diabetic
+Idli Variant 37,173,Breakfast,12g,8g,13g,Weight Loss
+Idli Variant 22,339,Lunch,1g,4g,5g,Muscle Gain
+Idli Variant 21,170,Breakfast,2g,6g,15g,Weight Loss
+Fruit Salad Variant 22,161,Breakfast,6g,9g,15g,Diabetic
+Fruit Salad Variant 29,50,Snack,2g,14g,15g,General
+Roti Variant 38,357,Dinner,8g,1g,4g,Weight Loss
+Roti Variant 34,280,Lunch,7g,2g,0g,General
+Fruit Salad Variant 6,285,Lunch,4g,5g,7g,Diabetic
+Fruit Salad Variant 18,74,Breakfast,9g,15g,16g,Diabetic
+Fruit Salad Variant 39,248,Lunch,7g,4g,15g,General
+Biryani Variant 32,222,Breakfast,4g,20g,15g,Weight Loss
+Fruit Salad Variant 2,99,Breakfast,13g,0g,9g,General
+Paneer Curry Variant 49,125,Breakfast,8g,4g,10g,Diabetic
+Biryani Variant 21,111,Breakfast,12g,5g,20g,General
+Poha Variant 1,191,Dinner,13g,12g,10g,Weight Loss
+Roti Variant 35,196,Snack,15g,17g,0g,Diabetic
+Fruit Salad Variant 4,72,Breakfast,14g,16g,1g,Weight Loss
+Paneer Curry Variant 19,62,Dinner,10g,11g,14g,Muscle Gain
+Biryani Variant 12,363,Lunch,6g,20g,6g,General
+Paneer Curry Variant 1,305,Breakfast,2g,7g,12g,Weight Loss
+Biryani Variant 17,320,Lunch,2g,2g,13g,Diabetic
+Fruit Salad Variant 8,97,Lunch,1g,5g,3g,Diabetic
+Idli Variant 19,139,Lunch,4g,19g,0g,General
+Biryani Variant 42,93,Lunch,11g,0g,15g,Weight Loss
+Biryani Variant 22,68,Snack,12g,2g,3g,General
+Poha Variant 5,124,Lunch,8g,0g,7g,General
+Roti Variant 39,187,Dinner,1g,18g,16g,Diabetic
+Fruit Salad Variant 40,226,Breakfast,11g,13g,6g,Diabetic
+Roti Variant 26,366,Dinner,7g,1g,7g,General
+Biryani Variant 5,365,Breakfast,8g,6g,4g,General
+Roti Variant 5,147,Dinner,10g,7g,9g,Diabetic
+Poha Variant 21,97,Snack,8g,15g,12g,Diabetic
+Idli Variant 13,314,Snack,2g,1g,12g,Diabetic
+Biryani Variant 50,132,Dinner,6g,13g,12g,Diabetic
+Idli Variant 32,77,Breakfast,10g,16g,20g,Muscle Gain
+Paneer Curry Variant 29,210,Dinner,14g,10g,2g,Diabetic
+Poha Variant 5,328,Dinner,6g,0g,8g,Weight Loss
+Fruit Salad Variant 28,136,Dinner,6g,17g,16g,General
+Biryani Variant 47,386,Breakfast,8g,7g,12g,General
+Idli Variant 18,377,Breakfast,10g,7g,1g,Weight Loss
+Poha Variant 17,52,Dinner,11g,16g,12g,Weight Loss
+Roti Variant 21,275,Dinner,8g,8g,1g,General
+Idli Variant 19,201,Breakfast,9g,1g,16g,Muscle Gain
+Paneer Curry Variant 42,68,Lunch,2g,18g,2g,Diabetic
+Poha Variant 18,342,Snack,10g,12g,16g,Diabetic
+Fruit Salad Variant 40,92,Snack,10g,5g,2g,Muscle Gain
+Poha Variant 45,199,Dinner,4g,13g,6g,Weight Loss
+Idli Variant 23,237,Lunch,1g,5g,16g,Diabetic
+Roti Variant 6,214,Breakfast,2g,12g,19g,Muscle Gain
+Biryani Variant 40,240,Snack,1g,3g,10g,Diabetic
+Fruit Salad Variant 43,343,Breakfast,13g,20g,17g,Diabetic
+Biryani Variant 24,109,Snack,6g,12g,20g,Diabetic
+Fruit Salad Variant 21,123,Lunch,11g,12g,4g,Weight Loss
+Biryani Variant 4,399,Breakfast,4g,20g,19g,Muscle Gain
+Roti Variant 17,275,Dinner,12g,15g,1g,Muscle Gain
+Roti Variant 39,195,Snack,15g,0g,11g,Muscle Gain
+Biryani Variant 50,317,Breakfast,14g,10g,2g,Weight Loss
+Roti Variant 50,167,Breakfast,15g,11g,7g,Weight Loss
+Fruit Salad Variant 50,262,Breakfast,7g,18g,20g,Diabetic
+Fruit Salad Variant 9,318,Snack,4g,5g,16g,Muscle Gain
+Idli Variant 37,251,Breakfast,10g,20g,12g,Diabetic
+Roti Variant 39,161,Lunch,11g,14g,0g,General
+Paneer Curry Variant 44,234,Breakfast,9g,10g,17g,Diabetic
+Fruit Salad Variant 33,183,Breakfast,13g,10g,1g,Muscle Gain
+Idli Variant 48,287,Snack,8g,9g,0g,Weight Loss
+Paneer Curry Variant 35,389,Dinner,5g,12g,17g,Weight Loss
+Roti Variant 36,277,Dinner,11g,20g,13g,Muscle Gain
+Roti Variant 33,323,Snack,4g,16g,5g,Diabetic
+Biryani Variant 26,328,Dinner,14g,14g,2g,Muscle Gain
+Poha Variant 3,164,Dinner,6g,8g,10g,Muscle Gain
+Fruit Salad Variant 8,107,Snack,4g,4g,13g,Muscle Gain
+Roti Variant 20,390,Breakfast,11g,2g,12g,General
+Fruit Salad Variant 21,55,Dinner,2g,17g,2g,Weight Loss
+Idli Variant 29,248,Breakfast,2g,19g,10g,Diabetic
+Roti Variant 23,228,Lunch,9g,3g,4g,Muscle Gain
+Paneer Curry Variant 49,236,Breakfast,4g,1g,10g,Muscle Gain
+Roti Variant 27,202,Snack,13g,17g,8g,Diabetic
+Poha Variant 18,89,Breakfast,1g,7g,14g,Diabetic
+Paneer Curry Variant 35,146,Dinner,1g,12g,9g,General
+Fruit Salad Variant 20,232,Breakfast,13g,2g,13g,Weight Loss
+Roti Variant 35,344,Lunch,12g,8g,6g,Weight Loss
+Poha Variant 3,204,Snack,14g,4g,12g,Diabetic
+Idli Variant 7,381,Lunch,10g,2g,18g,Diabetic
+Idli Variant 24,172,Lunch,8g,14g,11g,Weight Loss
+Fruit Salad Variant 2,394,Lunch,13g,20g,11g,Diabetic
+Roti Variant 5,380,Snack,11g,18g,7g,Diabetic
+Idli Variant 7,136,Breakfast,13g,1g,13g,Muscle Gain
+Idli Variant 24,111,Lunch,14g,8g,10g,Muscle Gain
+Fruit Salad Variant 2,336,Dinner,6g,11g,4g,General
+Paneer Curry Variant 40,162,Breakfast,4g,20g,15g,General
+Poha Variant 15,91,Breakfast,13g,13g,10g,General
+Poha Variant 21,370,Breakfast,4g,5g,4g,Muscle Gain
+Paneer Curry Variant 33,76,Snack,11g,5g,17g,Muscle Gain
+Biryani Variant 6,222,Dinner,3g,18g,13g,Weight Loss
+Biryani Variant 25,366,Lunch,3g,8g,7g,Muscle Gain
+Poha Variant 45,275,Breakfast,12g,7g,5g,General
+Poha Variant 14,335,Dinner,14g,17g,10g,Weight Loss
+Biryani Variant 24,152,Dinner,8g,2g,14g,Diabetic
+Biryani Variant 28,221,Snack,12g,12g,6g,Diabetic
+Poha Variant 11,106,Breakfast,5g,2g,17g,Muscle Gain
+Biryani Variant 23,117,Breakfast,4g,16g,13g,Weight Loss
+Roti Variant 18,204,Lunch,1g,7g,16g,Weight Loss
+Poha Variant 33,353,Snack,15g,3g,10g,General
+Paneer Curry Variant 21,53,Snack,3g,11g,14g,Muscle Gain
+Idli Variant 32,342,Dinner,5g,11g,2g,Weight Loss
+Poha Variant 22,186,Lunch,8g,4g,20g,Weight Loss
+Paneer Curry Variant 23,333,Snack,5g,19g,3g,Weight Loss
+Roti Variant 28,142,Lunch,6g,11g,16g,Diabetic
+Poha Variant 49,211,Snack,12g,9g,11g,Diabetic
+Idli Variant 9,99,Snack,3g,0g,17g,Muscle Gain
+Roti Variant 18,211,Breakfast,9g,13g,6g,Diabetic
+Paneer Curry Variant 41,187,Dinner,14g,6g,7g,Weight Loss
+Fruit Salad Variant 21,184,Dinner,2g,5g,6g,Diabetic
+Poha Variant 2,99,Lunch,14g,14g,4g,General
+Poha Variant 6,223,Snack,9g,0g,11g,General
+Fruit Salad Variant 37,340,Dinner,13g,2g,10g,General
+Biryani Variant 22,149,Breakfast,14g,14g,10g,General
+Fruit Salad Variant 6,115,Dinner,10g,7g,16g,Muscle Gain
+Idli Variant 46,60,Lunch,3g,5g,2g,Diabetic
+Fruit Salad Variant 14,188,Dinner,7g,9g,0g,Weight Loss
+Roti Variant 3,368,Breakfast,11g,19g,11g,Weight Loss
+Poha Variant 47,66,Dinner,2g,12g,17g,Muscle Gain
+Roti Variant 20,294,Lunch,2g,17g,3g,General
+Idli Variant 30,90,Snack,6g,14g,17g,Weight Loss
+Paneer Curry Variant 11,335,Lunch,9g,10g,18g,Weight Loss
+Paneer Curry Variant 41,294,Breakfast,5g,16g,12g,Diabetic
+Paneer Curry Variant 3,306,Dinner,2g,11g,17g,General
+Idli Variant 14,211,Snack,12g,13g,2g,Diabetic
+Fruit Salad Variant 14,227,Snack,10g,16g,14g,Weight Loss
+Roti Variant 28,234,Dinner,15g,16g,5g,Muscle Gain
+Fruit Salad Variant 5,169,Lunch,12g,13g,9g,Muscle Gain
+Idli Variant 27,112,Lunch,6g,11g,2g,Diabetic
+Fruit Salad Variant 18,132,Dinner,14g,15g,18g,Diabetic
+Idli Variant 25,341,Breakfast,6g,11g,6g,General
+Idli Variant 36,353,Dinner,3g,11g,1g,General
+Poha Variant 30,95,Breakfast,5g,0g,14g,General
+Poha Variant 18,114,Breakfast,8g,13g,13g,Diabetic
+Fruit Salad Variant 3,205,Snack,10g,5g,13g,Weight Loss
+Paneer Curry Variant 27,183,Dinner,15g,12g,5g,General
+Fruit Salad Variant 31,72,Snack,8g,5g,18g,Muscle Gain
+Poha Variant 22,197,Breakfast,14g,14g,16g,Diabetic
+Roti Variant 41,345,Lunch,2g,9g,7g,Diabetic
+Idli Variant 44,159,Breakfast,12g,19g,16g,Weight Loss
+Roti Variant 45,227,Snack,4g,9g,13g,Muscle Gain
+Paneer Curry Variant 2,163,Snack,10g,19g,12g,Diabetic
+Fruit Salad Variant 3,330,Snack,7g,3g,14g,Weight Loss
+Roti Variant 25,366,Dinner,15g,8g,12g,Diabetic
+Poha Variant 45,204,Breakfast,8g,0g,7g,Diabetic
+Biryani Variant 31,354,Snack,11g,7g,2g,Diabetic
+Paneer Curry Variant 38,374,Lunch,11g,3g,16g,Diabetic
+Paneer Curry Variant 47,319,Breakfast,6g,16g,5g,Weight Loss
+Roti Variant 18,145,Snack,2g,9g,11g,Muscle Gain
+Poha Variant 50,134,Snack,15g,13g,4g,Muscle Gain
+Paneer Curry Variant 36,126,Snack,10g,15g,16g,Diabetic
+Idli Variant 20,171,Lunch,12g,13g,14g,Muscle Gain
+Biryani Variant 36,81,Dinner,3g,20g,14g,Weight Loss
+Idli Variant 10,126,Dinner,10g,16g,16g,Weight Loss
+Fruit Salad Variant 47,289,Dinner,8g,9g,13g,Diabetic
+Idli Variant 3,215,Breakfast,14g,3g,19g,Weight Loss
+Biryani Variant 43,90,Snack,4g,7g,16g,Muscle Gain
+Biryani Variant 3,396,Snack,14g,2g,13g,Weight Loss
+Poha Variant 47,275,Snack,14g,14g,16g,General
+Poha Variant 7,200,Snack,14g,4g,11g,Weight Loss
+Roti Variant 28,318,Breakfast,1g,0g,6g,Diabetic
+Paneer Curry Variant 48,369,Dinner,9g,3g,14g,Diabetic
+Roti Variant 39,365,Breakfast,9g,16g,8g,Muscle Gain
+Biryani Variant 41,333,Dinner,1g,3g,2g,General
+Poha Variant 23,169,Lunch,13g,14g,3g,Diabetic
+Fruit Salad Variant 1,174,Snack,1g,8g,2g,Diabetic
+Idli Variant 41,343,Dinner,15g,11g,11g,Muscle Gain
+Poha Variant 19,195,Snack,14g,12g,1g,Muscle Gain
+Idli Variant 50,314,Breakfast,11g,18g,13g,General
+Idli Variant 42,337,Snack,14g,8g,9g,Diabetic
+Paneer Curry Variant 26,218,Lunch,13g,8g,19g,Muscle Gain
+Roti Variant 13,123,Breakfast,3g,5g,8g,Muscle Gain
+Biryani Variant 31,172,Dinner,2g,20g,14g,General
+Idli Variant 17,179,Snack,5g,14g,2g,Muscle Gain
+Roti Variant 37,366,Snack,10g,10g,18g,Muscle Gain
+Poha Variant 23,97,Snack,14g,9g,9g,Weight Loss
+Fruit Salad Variant 39,64,Lunch,15g,0g,17g,General
+Biryani Variant 10,307,Breakfast,4g,12g,1g,General
+Poha Variant 6,298,Breakfast,11g,18g,10g,Muscle Gain
+Poha Variant 43,398,Lunch,9g,17g,4g,Weight Loss
+Poha Variant 48,128,Lunch,3g,15g,17g,Weight Loss
+Idli Variant 28,268,Snack,4g,0g,4g,Diabetic
+Poha Variant 40,238,Breakfast,3g,6g,20g,Muscle Gain
+Paneer Curry Variant 27,97,Dinner,5g,11g,10g,Diabetic
+Biryani Variant 5,285,Lunch,4g,12g,4g,Weight Loss
+Fruit Salad Variant 31,179,Lunch,6g,11g,0g,Muscle Gain
+Roti Variant 10,277,Breakfast,6g,10g,20g,Weight Loss
+Biryani Variant 3,300,Breakfast,15g,7g,5g,Muscle Gain
+Fruit Salad Variant 42,328,Dinner,5g,9g,3g,Diabetic
+Roti Variant 19,210,Dinner,7g,8g,3g,Weight Loss
+Paneer Curry Variant 24,265,Breakfast,2g,6g,13g,Muscle Gain
+Biryani Variant 2,119,Dinner,4g,3g,3g,Weight Loss
+Roti Variant 9,158,Snack,2g,0g,5g,General
+Fruit Salad Variant 40,358,Breakfast,1g,13g,12g,Muscle Gain
+Roti Variant 27,73,Breakfast,14g,12g,18g,Weight Loss
+Fruit Salad Variant 29,301,Snack,4g,6g,16g,Diabetic
+Paneer Curry Variant 41,272,Dinner,15g,9g,3g,Weight Loss
+Fruit Salad Variant 38,230,Breakfast,5g,13g,18g,Muscle Gain
+Idli Variant 48,146,Snack,7g,6g,8g,Weight Loss
+Idli Variant 49,174,Dinner,4g,5g,19g,Muscle Gain
+Fruit Salad Variant 17,283,Breakfast,12g,14g,14g,Diabetic
+Fruit Salad Variant 44,150,Breakfast,11g,14g,2g,Muscle Gain
+Biryani Variant 35,178,Dinner,5g,0g,3g,Diabetic
+Biryani Variant 45,354,Breakfast,9g,8g,8g,General
+Idli Variant 2,266,Lunch,13g,8g,2g,Muscle Gain
+Paneer Curry Variant 14,194,Snack,2g,9g,2g,Diabetic
+Paneer Curry Variant 25,125,Dinner,2g,19g,18g,Diabetic
+Fruit Salad Variant 31,381,Dinner,2g,19g,17g,General
+Fruit Salad Variant 2,62,Dinner,8g,5g,4g,Diabetic
+Biryani Variant 16,122,Dinner,10g,5g,7g,Muscle Gain
+Fruit Salad Variant 3,59,Dinner,8g,13g,3g,Diabetic
+Poha Variant 20,227,Breakfast,5g,1g,8g,Muscle Gain
+Paneer Curry Variant 40,128,Dinner,5g,11g,14g,Weight Loss
+Biryani Variant 39,87,Snack,11g,18g,15g,Weight Loss
+Biryani Variant 10,321,Dinner,2g,17g,16g,Muscle Gain
+Paneer Curry Variant 29,217,Snack,15g,13g,18g,General
+Idli Variant 32,105,Lunch,11g,14g,3g,Weight Loss
+Paneer Curry Variant 27,257,Dinner,2g,2g,4g,Weight Loss
+Biryani Variant 16,149,Dinner,10g,14g,8g,Diabetic
+Fruit Salad Variant 16,98,Lunch,4g,20g,5g,General
+Fruit Salad Variant 38,368,Snack,7g,16g,20g,Muscle Gain
+Poha Variant 15,363,Breakfast,5g,16g,14g,Muscle Gain
+Roti Variant 28,191,Dinner,8g,17g,20g,Diabetic

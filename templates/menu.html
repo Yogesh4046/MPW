@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Recommended Weekly Menu</title>
+</head>
+<body>
+    <h1>Recommended Weekly Menu</h1>
+
+    {% for day in range(7) %}
+        <h2>Day {{ day + 1 }}</h2>
+        {% for meal, dishes in menu.items() %}
+            {% if dishes %}
+                <p><strong>{{ meal }}:</strong> {{ dishes[day % dishes|length] }}</p>
+            {% else %}
+                <p><strong>{{ meal }}:</strong> No dishes available</p>
+            {% endif %}
+        {% endfor %}
+        
+        <h3>Total Nutritional Information for Day {{ day + 1 }}:</h3>
+        <p>Calories: {{ nutrition_info['Breakfast']['Calories'] + nutrition_info['Lunch']['Calories'] + nutrition_info['Snacks']['Calories'] + nutrition_info['Dinner']['Calories'] }}</p>
+        <p>Protein: {{ nutrition_info['Breakfast']['Protein'] + nutrition_info['Lunch']['Protein'] + nutrition_info['Snacks']['Protein'] + nutrition_info['Dinner']['Protein'] }}</p>
+        <p>Fat: {{ nutrition_info['Breakfast']['Fat'] + nutrition_info['Lunch']['Fat'] + nutrition_info['Snacks']['Fat'] + nutrition_info['Dinner']['Fat'] }}</p>
+        <p>Sugar: {{ nutrition_info['Breakfast']['Sugar'] + nutrition_info['Lunch']['Sugar'] + nutrition_info['Snacks']['Sugar'] + nutrition_info['Dinner']['Sugar'] }}</p>
+    {% endfor %}
+</body>
+</html>

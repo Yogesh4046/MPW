@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Diet Recommendation</title>
+</head>
+<body>
+    <h1>Diet Menu Recommendation</h1>
+    <form action="/" method="POST" enctype="multipart/form-data">
+        <label for="menu_pdf">Upload Mess Menu (PDF):</label>
+        <input type="file" name="menu_pdf" required><br><br>
+        
+        <label for="diet_preference">Select Diet Preference:</label>
+        <select name="diet_preference" required>
+            <option value="Diabetic">Diabetic</option>
+            <option value="Weight Loss">Weight Loss</option>
+            <option value="Muscle Gain">Muscle Gain</option>
+            <option value="General">General</option>
+        </select><br><br>
+
+        <input type="submit" value="Get Recommendations">
+    </form>
+</body>
+</html>
